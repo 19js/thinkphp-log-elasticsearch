@@ -10,6 +10,9 @@
   "require": {
     "topthink/framework":"5.1.*"
   },
+  "require-dev":{
+    "topthink/framework":"5.1.*"
+  },
   "autoload": {
     "psr-4": {
       "think\\log\\driver\\": "src/"
