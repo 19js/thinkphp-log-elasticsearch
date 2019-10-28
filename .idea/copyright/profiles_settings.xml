@@ -1,0 +1,10 @@
+<component name="CopyrightManager">
+  <settings default="yang">
+    <module2copyright>
+      <element module="All" copyright="yang" />
+    </module2copyright>
+    <LanguageOptions name="PHP">
+      <option name="fileTypeOverride" value="3" />
+    </LanguageOptions>
+  </settings>
+</component>
