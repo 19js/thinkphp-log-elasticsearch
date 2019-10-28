@@ -3,15 +3,14 @@
   "description": "将thinphp 5.1日志推送到elasticsearch",
   "authors": [
     {
-      "name": "Shuanlin Yang"
+      "name": "Shuanlin Yang",
+      "email": "yangshuanlinysl@dingtalk.com"
     }
   ],
   "license": "Apache-2.0",
   "require": {
-    "topthink/framework":"5.1.*"
-  },
-  "require-dev":{
-    "topthink/framework":"5.1.*"
+    "topthink/think-installer": "~2.0",
+    "topthink/framework": "5.1.*"
   },
   "autoload": {
     "psr-4": {
