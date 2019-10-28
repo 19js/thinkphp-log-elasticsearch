@@ -12,7 +12,7 @@
   },
   "autoload": {
     "psr-4": {
-      "think\\log\\driver": "src/"
+      "think\\log\\driver\\": "src/"
     }
   }
 }
